@@ -1,0 +1,19 @@
+---
+title: "Challenge8"
+auhtor: "Snigdha Srivatsava"
+desccription: "creating a new quarto file"
+date: ""
+format: 
+  html:
+    df-print: paged 
+    css: "styles.css"
+    embed-resources: true
+    self-contained-math: true
+categories: 
+  - weekly challenges
+  - challenge 8
+---
+
+## TASK1
+
+The last movie that i watched in theater is Animal
